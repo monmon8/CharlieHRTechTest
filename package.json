@@ -1,0 +1,15 @@
+{
+  "name": "CharlieHRTechTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/monmon8/CharlieHRTechTest.git",
+  "author": "<imaneben8@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest "
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+  
+}
